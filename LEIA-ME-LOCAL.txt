@@ -1,0 +1,9 @@
+PRATO CERTO - EXECUCAO LOCAL
+
+1. Clique duas vezes em INICIAR-SITE-LOCAL.cmd.
+2. Aguarde o navegador abrir http://127.0.0.1:5173.
+3. Mantenha a janela do servidor aberta enquanto usar o site.
+4. Para desligar, feche a janela do servidor.
+
+O endereco 127.0.0.1 funciona somente neste computador.
+Nenhuma publicacao ou hospedagem externa e necessaria.
